@@ -1,1 +1,1 @@
-
+* Code quality is tested
