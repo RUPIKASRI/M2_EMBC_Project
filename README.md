@@ -1,7 +1,7 @@
 # M2_EMBC_Project
 # Project Name : Adaptable Resistance 
 
-The main of the project is that the Resistance changes with a change in Temperature.
+The main aim of the project is that the Resistance changes with a change in Temperature.
 
 # Badges
 ![image](https://user-images.githubusercontent.com/101034066/164703966-2c1fb4ea-830c-44a5-8db4-559f73dfb7fa.png)
